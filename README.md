@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sashank1209
 - 👀 I’m interested in Software Development and Data Sciene
-- 🌱 I’m currently learning Web Dvelopement and Java Script
+- 🌱 I’m currently learning Web Developement and Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mail vuresaishashank143@gmail.com
 
