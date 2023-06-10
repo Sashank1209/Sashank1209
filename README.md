@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Data Sciene
 - 🌱 I’m currently learning Web Developement and Java Script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by mail vuresaishashank143@gmail.com
+- 📫 How to reach me by mail saisashankvure@gmail.com
 
 <!---
 Sashank1209/Sashank1209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
